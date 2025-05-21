@@ -1,1 +1,1 @@
-# node-query-gateway
+# sigma-cloud
